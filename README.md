@@ -5,4 +5,4 @@
 
 Can you view my first site on GitHub [GitHub Pages](https://krabika.github.io/Simple-project/).
 
-The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
+The background color should be `#ffffff` for light mode and for dark mode.

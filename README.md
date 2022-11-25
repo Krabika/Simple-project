@@ -5,4 +5,4 @@
 
 Can you view my first site on GitHub [GitHub Pages](https://krabika.github.io/Simple-project/).
 
-@github support krabik
+
